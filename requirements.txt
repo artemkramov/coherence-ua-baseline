@@ -1,0 +1,4 @@
+elmoformanylangs==0.0.4.post2
+ufal.udpipe==1.3.0.1
+numpy==1.22.4
+tensorflow==2.7.0
